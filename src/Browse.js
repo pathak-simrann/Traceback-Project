@@ -1,7 +1,7 @@
 import "./Browse.css";
 import { useEffect, useState } from "react";
 import axios from "axios";
-import View from "./Viewdetails";
+
 import { useNavigate } from "react-router-dom";
 
 function BrowseFoundItems() {
